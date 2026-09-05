@@ -1,0 +1,282 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #EACDBD;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.mainnn{
+    height: 100%;
+    width: 100%;
+   border:  #504444 60px solid;
+}
+.nav-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 30px;
+    font-size: 20px;
+}
+
+.logo {
+    width: 100px;
+}
+
+.nav-links {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.nav-a {
+    text-decoration: none;
+    color: #947E72;
+}
+
+.ri-search-line {
+    color: #947E72;
+}
+
+.banner {
+    position: relative;
+    width: 100%;
+}
+
+.banner img {
+    width: 100%;
+    height: 100vh;
+    display: block;
+}
+
+
+
+button {
+    position: absolute;
+    left: 30px;
+    bottom: 30px;
+    padding: 12px 25px;
+    background-color: white;
+    color: black;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.top1 {
+    margin-top: 30px;
+}
+
+.heding1 {
+    text-align: center;
+    color: black;
+
+}
+
+.p1 {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.card {
+    margin-top: 30px;
+    display: flex;
+    gap: 18px;
+    justify-content: center;
+}
+
+.card1 {
+    height: 250px;
+    width: 300px;
+    background: url("../assets/images/cofee-mocha.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+
+}
+
+.v1 {
+    display: block;
+    color: white;
+    text-decoration: none;
+    margin-top: 30px;
+    margin-left: 110px;
+
+}
+
+.heding2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    color: white;
+
+}
+
+.card2 {
+    height: 250px;
+    width: 300px;
+    background: url("../assets/images/espresso\ americano.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+
+}
+
+.card3 {
+    height: 250px;
+    width: 300px;
+    background: url("../assets/images/cappuccino.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+
+}
+
+.heding3 {
+    font-size: 30px;
+    text-align: center;
+    margin-top: 30px;
+
+}
+
+.p2 {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.container {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.box1 {
+    height: 300px;
+    width: 300px;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 30px;
+
+}
+
+
+.box2 {
+    height: 300px;
+    width: 300px;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 30px;
+}
+
+.box3 {
+    height: 300px;
+    width: 300px;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 30px;
+
+}
+
+
+ .container img {
+
+    height: 200px;
+    width: 30pxpx;
+    border-radius: 20px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    position: relative;
+    margin-left: 75px;
+}
+
+.like{
+    display: flex;
+    height: 3opx;
+    width : 80px;
+    background-color: aliceblue;
+    border-radius: 30px;
+    margin: 9px;
+}
+h3{
+    margin-top: 8px;
+    text-align: center;
+}
+
+span{
+    margin-left: 18px;
+    margin-top: 50px;
+
+}
+
+.container2{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 20px;
+}
+.b1{
+   
+    height: 430px;
+    width: 350px;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 30px;
+}
+
+.container2 img{
+    height: 200px;
+    width: 250px;
+    border-radius: 20px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    margin-top: 10px;
+    margin-left: 30px;
+
+}
+
+.b1 h4{
+
+    font-size: 25px;
+}
+footer{
+    margin-top: 50px;
+}
+
+.f1
+{
+    text-align: left;
+    gap: 30px;
+    width: 100%;
+    height: 700px;
+    background-color: black;
+    display: flex;
+}
+
+.foot-1{
+    margin-top: 25px;
+    margin-left: 120px;
+}
+.foot-1 h2{
+  color: white;
+}
+
+.foot-1 span{
+    color: white;
+    text-align: left;
+    display: block;
+    font-size: 25px;
+}
+
+.foot-1 a{
+    color: white;
+    text-decoration: none;
+    display: block;
+    margin-top: 30px;
+    font-size: 30px;
+}
