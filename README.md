@@ -102,10 +102,20 @@ css/media.css
 
 ## 🎨 Preview
 
-### Home Page
+## 🎥 Demo Video
 
-Add your project screenshot here:
+Check out the complete demo of the Coffee Home Page:
 
+▶️ **[Watch Demo Video](<video controls src="DEMO.mp4" title="Title"></video>)**
+
+The demo video shows the responsive Coffee Home Page, including:
+
+* Navigation Bar
+* Coffee Categories
+* Milk Shakes
+* Latest Blogs
+* Footer
+* Responsive Design on different screen sizes
 
 
 ## 🚀 How To Run
