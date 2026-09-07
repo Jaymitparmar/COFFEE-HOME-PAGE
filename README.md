@@ -106,7 +106,11 @@ css/media.css
 
 Check out the complete demo of the Coffee Home Page:
 
-▶️ **[Watch Demo Video](<video controls src="DEMO.mp4" title="Title"></video>)**
+▶️ 
+
+**[Watch Demo Video](<video controls src="https://github.com/Jaymitparmar/COFFEE-HOME-PAGE/blob/main/DEMO.mp4" title="Title"></video>)**
+
+
 
 The demo video shows the responsive Coffee Home Page, including:
 
@@ -132,3 +136,8 @@ The demo video shows the responsive Coffee Home Page, including:
 ---
 
 ⭐ If you like this project, don't forget to star the repository!
+
+
+
+
+
