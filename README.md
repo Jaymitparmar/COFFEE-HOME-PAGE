@@ -102,25 +102,12 @@ css/media.css
 
 ## 🎨 Preview
 
-## 🎥 Demo Video
+## 📸 Project Screenshot
 
-Check out the complete demo of the Coffee Home Page:
-
-▶️ 
-
-**[Watch Demo Video](<video controls src="https://github.com/Jaymitparmar/COFFEE-HOME-PAGE/blob/main/DEMO.mp4" title="Title"></video>)**
-
-
-
-The demo video shows the responsive Coffee Home Page, including:
-
-* Navigation Bar
-* Coffee Categories
-* Milk Shakes
-* Latest Blogs
-* Footer
-* Responsive Design on different screen sizes
-
+![Coffee Website Screenshot](/assets/images/350px.png)
+![Coffee Website Screenshot](/assets/images/575px.png)
+![Coffee Website Screenshot](/assets/images/768px.png)
+![Coffee Website Screenshot](/assets/images/1199px.png)
 
 ## 🚀 How To Run
 
@@ -136,8 +123,3 @@ The demo video shows the responsive Coffee Home Page, including:
 ---
 
 ⭐ If you like this project, don't forget to star the repository!
-
-
-
-
-
