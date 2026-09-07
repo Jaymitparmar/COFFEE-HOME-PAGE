@@ -104,10 +104,10 @@ css/media.css
 
 ## 📸 Project Screenshot
 
-![Coffee Website Screenshot](/assets/images/350px.png)
-![Coffee Website Screenshot](/assets/images/575px.png)
-![Coffee Website Screenshot](/assets/images/768px.png)
-![Coffee Website Screenshot](/assets/images/1199px.png)
+![Coffee Website Screenshot](350px.png)
+![Coffee Website Screenshot](575px.png)
+![Coffee Website Screenshot](768px.png)
+![Coffee Website Screenshot](1199px.png)
 
 ## 🚀 How To Run
 
